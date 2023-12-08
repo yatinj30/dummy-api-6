@@ -327,6 +327,22 @@
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shivji_ki_sawari.png",
                         "downloadLink": "",
                         "otherImageItems": []
+                    },
+                    {
+                        "title": "Devo Ke Dev Mahadev Theme",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devo_ke_dev_mahadev.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Devon Ke Dev Mahadev 2",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev+2.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devon_ke_dev_mahadev%2B2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
                     }
                 ]
             },
@@ -466,6 +482,22 @@
                         "subTitle": "",
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Devon Ke Dev Mahadev 2",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev+2.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devon_ke_dev_mahadev%2B2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                                        {
+                        "title": "Devo Ke Dev Mahadev Theme",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devo_ke_dev_mahadev.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
