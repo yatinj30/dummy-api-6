@@ -137,6 +137,38 @@
                         "otherImageItems": []
                     },
                     {
+                        "title": "Gayatri Mantra 3",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_3.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_3.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 4",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_4.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_4.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 5",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_5.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_5.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 6",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_6.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_6.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
                         "title": "Har Har Mahadev BGM",
                         "subTitle": "",
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_bgm.mp3",
@@ -624,6 +656,38 @@
                         "subTitle": "",
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 3",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_3.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_3.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 4",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_4.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_4.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 5",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_5.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_5.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Gayatri Mantra 6",
+                        "subTitle": "",
+                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_6.mp3",
+                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_6.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
