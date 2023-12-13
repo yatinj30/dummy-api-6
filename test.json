@@ -1,6 +1,6 @@
 {
     "appTitle": "Mahadev Ringtones & Wallpaper",
-    "appSplashLogo": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
+    "appSplashLogo": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
     "mainScreenContent": {
         "mainListView": [
             {
@@ -898,7 +898,7 @@
         }
     ],
     "settingsPage": {
-        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
+        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
         "privacyPolicy": "https://www.freeprivacypolicy.com/live/09321051-f4ad-4d09-9ffc-00b8c7da9958",
         "termsCondition": "https://www.freeprivacypolicy.com/live/e088c1cf-256a-4d18-b50a-a8de9db02fa0",
         "shareTheApp": "Hey! I found a very good application to download Mahadev Ringtones, Aarti, Wallpaper. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew",
