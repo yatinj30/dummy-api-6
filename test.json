@@ -14,7 +14,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Mahadev Mahadev",
@@ -38,7 +43,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mera_bhola_bhandari.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mera_bhola_bhandari.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Om Namah Shivay",
@@ -70,7 +80,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Karpur Gauram 2",
@@ -278,7 +293,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahakal_sarkar_mere.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mahakal_sarkar_mere.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Mahamrityunjay Mantra",
@@ -389,7 +409,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/lord_shiva_theme.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Shiva Adi Hai",
@@ -437,7 +462,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mera_bhola_bhandari.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mera_bhola_bhandari.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     }
                 ]
             },
@@ -460,7 +490,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_shambh.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har_har_mahadev_shambh.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Har Har Shiva",
@@ -515,7 +550,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Devon Ke Dev Mahadev 2",
@@ -546,7 +586,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahadev_tandav_hd.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev_tandav.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Panchakshara Stotram",
@@ -649,7 +694,12 @@
                         "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_new.mp3",
                         "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_2.png",
                         "downloadLink": "",
-                        "otherImageItems": []
+                        "otherImageItems": [
+                            {
+                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                            }
+                        ]
                     },
                     {
                         "title": "Gayatri Mantra 2",
