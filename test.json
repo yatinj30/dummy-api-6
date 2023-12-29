@@ -1020,12 +1020,12 @@
         "moreApp": "https://play.google.com/store/apps/developer?id=Unique+Tech+Media"
     },
     "adsData": {
-        "showAds": false,
+        "showAds": true,
         "onBoardingScreen": {
             "bannerAd": false
         },
         "dashBoardScreen": {
-            "bannerAd": false
+            "bannerAd": true
         },
         "wallpaperScreen": {
             "nativeAd": false
