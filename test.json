@@ -1,6 +1,6 @@
 {
     "appTitle": "Mahadev Ringtones & Wallpaper",
-    "appSplashLogo": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+    "appSplashLogo": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
     "mainScreenContent": {
         "mainListView": [
             {
@@ -11,388 +11,388 @@
                     {
                         "title": "Har Har Shambhu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Mahadev Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahadev+mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev31.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahadev+mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev31.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mahadev Tandav",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahadev_tandav_hd.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev_tandav.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahadev_tandav_hd.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev_tandav.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mera Bhola Bhandari",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mera_bhola_bhandari.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mera_bhola_bhandari.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mera_bhola_bhandari.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mera_bhola_bhandari.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Om Namah Shivay",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivay.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/om_namah_shivay.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivay.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/om_namah_shivay.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Panchakshara Stotram",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/panchakshara+stotram.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/panchakshara_stotram.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/panchakshara+stotram.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/panchakshara_stotram.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiv Shiv",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Shiv+Shiv.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Shiv_Shiv.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Shiv+Shiv.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Shiv_Shiv.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Karpur Gauram",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Karpur Gauram 2",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram+2.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram+2.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram+2.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram+2.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Rudrashtakam",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Rudrashtakam+.mp3.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Rudrashtakam.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Rudrashtakam+.mp3.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Rudrashtakam.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Aarambh Hu Mai Prachand Hu Mai",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Aarambh+Hu+Mai+Prachand+Hu+Mai.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev47.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Aarambh+Hu+Mai+Prachand+Hu+Mai.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev47.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devo Ke Dev Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_k_dev_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev27.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devo_k_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev27.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devo Ke Dev OO Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_oo.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev21.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_oo.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev21.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devon Ke Dev Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_new.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_2.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_new.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_2.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 2",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 3",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_3.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_3.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_3.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_3.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 4",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_4.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_4.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_4.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_4.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 5",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_5.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_5.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_5.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_5.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 6",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_6.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_6.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_6.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_6.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Mahadev BGM",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_bgm.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev25.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_bgm.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev25.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Mahadev Shambhu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_shambh.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har_har_mahadev_shambh.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_shambh.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/har_har_mahadev_shambh.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Shiva",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_shiva.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har_har_shiva.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_shiva.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/har_har_shiva.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Kaal Bhairav Ashtakam",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/kaal_bhairav_ashtakam.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/kaal_bhairav_ashtakam.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/kaal_bhairav_ashtakam.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/kaal_bhairav_ashtakam.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Karpur Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/karpur_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/karpur_mahadev.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/karpur_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/karpur_mahadev.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Maha Mrityunjay",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/maha_mrityunjay.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/maha_mrityunjay.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/maha_mrityunjay.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/maha_mrityunjay.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mahadev Shivay",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Mahadev+shivay.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev%2Bshivay.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Mahadev+shivay.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev%2Bshivay.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiv Tandav Ringtone",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_ringtone.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_ringtone.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_ringtone.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_ringtone.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiv Tandav Strom Octo",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_strom_octo.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_strom_octo.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_strom_octo.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_strom_octo.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mere Bholenath",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mere_bhole_nath.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mere_bhole_nath.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mere_bhole_nath.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mere_bhole_nath.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Shiv Shankar",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har+har+shiv+shankar.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har%2Bhar%2Bshiv%2Bshankar.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har+har+shiv+shankar.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/har%2Bhar%2Bshiv%2Bshankar.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Lord Shiva Theme",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/lord_shiva_theme.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/lord_shiva_theme.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mahadeva Damaru",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahadeva_damaru.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mahadeva_damaru.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahadeva_damaru.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mahadeva_damaru.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mahakal Sarkar Mere",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahakal_sarkar_mere.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mahakal_sarkar_mere.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahakal_sarkar_mere.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mahakal_sarkar_mere.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Mahamrityunjay Mantra",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahamrityunjay+mantra.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mahamrityunjay%2Bmantra.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahamrityunjay+mantra.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mahamrityunjay%2Bmantra.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Main Shiv Ka Hu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/main_shiv_ka_hu_shiv.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev2.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/main_shiv_ka_hu_shiv.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev2.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Om Namo",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Om+namo.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Om%2Bnamo.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Om+namo.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Om%2Bnamo.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Om Nama Shivay Vocl",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivay_vocl.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/om_namah_shivay_vocl.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivay_vocl.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/om_namah_shivay_vocl.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Om Namah Shivaya",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivaya.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/om_namah_shivaya.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivaya.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/om_namah_shivaya.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Saurashtre Somnath",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/saurashtre_somnath.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/saurashtre_somnath.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/saurashtre_somnath.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/saurashtre_somnath.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiv Shiv Shambhu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiv_shiv_shambhu.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev15.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiv_shiv_shambhu.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev15.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiva Adi Hai",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiva_adi_hai.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiva_adi_hai.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiva_adi_hai.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiva_adi_hai.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiva Mantrochharan",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiva_mantrochharan.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiva_mantrochharan.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiva_mantrochharan.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiva_mantrochharan.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shivji Ki Sawari",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shivji_ki_sawari.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shivji_ki_sawari.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shivji_ki_sawari.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shivji_ki_sawari.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devo Ke Dev Mahadev Theme",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devo_ke_dev_mahadev.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/devo_ke_dev_mahadev.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devon Ke Dev Mahadev 2",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev+2.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devon_ke_dev_mahadev%2B2.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev+2.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/devon_ke_dev_mahadev%2B2.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -406,66 +406,66 @@
                     {
                         "title": "Lord Shiva Theme",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/lord_shiva_theme.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/lord_shiva_theme.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Shiva Adi Hai",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiva_adi_hai.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiva_adi_hai.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiva_adi_hai.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiva_adi_hai.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Panchakshara Stotram",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/panchakshara+stotram.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/panchakshara_stotram.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/panchakshara+stotram.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/panchakshara_stotram.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Karpur Gauram",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Karpur+Gauram.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Karpur+Gauram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Aarambh Hu Mai Prachand Hu Mai",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Aarambh+Hu+Mai+Prachand+Hu+Mai.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev47.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Aarambh+Hu+Mai+Prachand+Hu+Mai.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev47.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Shambhu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mera Bhola Bhandari",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mera_bhola_bhandari.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mera_bhola_bhandari.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mera_bhola_bhandari.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mera_bhola_bhandari.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     }
@@ -479,45 +479,45 @@
                     {
                         "title": "Har Har Shiv Shankar",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har+har+shiv+shankar.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har%2Bhar%2Bshiv%2Bshankar.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har+har+shiv+shankar.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/har%2Bhar%2Bshiv%2Bshankar.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Mahadev Shambhu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_shambh.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har_har_mahadev_shambh.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_shambh.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/har_har_mahadev_shambh.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Har Har Shiva",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_shiva.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/har_har_shiva.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_shiva.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/har_har_shiva.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Mahadev BGM",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_bgm.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev25.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_mahadev_bgm.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev25.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Har Har Shambhu",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/har_har_shambhu.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Har_har_shambhu.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -531,45 +531,45 @@
                     {
                         "title": "Devo Ke Dev Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_k_dev_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev27.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devo_k_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev27.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devo Ke Dev OO Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_oo.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev21.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_oo.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev21.jpeg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Devon Ke Dev Mahadev",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Devon Ke Dev Mahadev 2",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev+2.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devon_ke_dev_mahadev%2B2.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devon_ke_dev_mahadev+2.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/devon_ke_dev_mahadev%2B2.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
-                                        {
+                    {
                         "title": "Devo Ke Dev Mahadev Theme",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_mahadev.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/devo_ke_dev_mahadev.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/devo_ke_dev_mahadev.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/devo_ke_dev_mahadev.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -583,101 +583,101 @@
                     {
                         "title": "Mahadev Tandav",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahadev_tandav_hd.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev_tandav.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahadev_tandav_hd.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev_tandav.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Panchakshara Stotram",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/panchakshara+stotram.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/panchakshara_stotram.jpg",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/panchakshara+stotram.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/panchakshara_stotram.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Rudrashtakam",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Rudrashtakam+.mp3.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Rudrashtakam.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Rudrashtakam+.mp3.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Rudrashtakam.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Kaal Bhairav Ashtakam",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/kaal_bhairav_ashtakam.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/kaal_bhairav_ashtakam.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/kaal_bhairav_ashtakam.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/kaal_bhairav_ashtakam.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Maha Mrityunjay",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/maha_mrityunjay.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/maha_mrityunjay.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/maha_mrityunjay.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/maha_mrityunjay.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiv Tandav Ringtone",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_ringtone.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_ringtone.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_ringtone.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_ringtone.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiv Tandav Strom Octo",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_strom_octo.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_strom_octo.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiv_tandav_strom_octo.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiv_tandav_strom_octo.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Mahamrityunjay Mantra",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/mahamrityunjay+mantra.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/mahamrityunjay%2Bmantra.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/mahamrityunjay+mantra.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/mahamrityunjay%2Bmantra.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Om Namo",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/Om+namo.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Om%2Bnamo.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/Om+namo.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Om%2Bnamo.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Om Nama Shivay Vocl",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivay_vocl.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/om_namah_shivay_vocl.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivay_vocl.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/om_namah_shivay_vocl.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Om Namah Shivaya",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivaya.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/om_namah_shivaya.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/om_namah_shivaya.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/om_namah_shivaya.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Shiva Mantrochharan",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/shiva_mantrochharan.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/shiva_mantrochharan.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/shiva_mantrochharan.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/shiva_mantrochharan.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -691,53 +691,53 @@
                     {
                         "title": "Gayatri Mantra",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_new.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_2.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_new.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_2.png",
                         "downloadLink": "",
                         "otherImageItems": [
                             {
-                                "image":"https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
-                                "link":"https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
+                                "image": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
+                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew"
                             }
                         ]
                     },
                     {
                         "title": "Gayatri Mantra 2",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 3",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_3.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_3.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_3.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_3.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 4",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_4.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_4.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_4.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_4.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 5",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_5.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_5.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_5.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_5.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
                         "title": "Gayatri Mantra 6",
                         "subTitle": "",
-                        "songLink": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_6.mp3",
-                        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_6.png",
+                        "songLink": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Rington/gayatri_mantra_6.mp3",
+                        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/gayatri_mantra_6.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -747,272 +747,272 @@
     },
     "wallpapers": [
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev1.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev1.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev2.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev2.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev3.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev3.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev4.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev4.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev5.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev5.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev6.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev6.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev7.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev7.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev8.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev8.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev9.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev9.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev10.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev10.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev11.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev11.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev12.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev12.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev13.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev13.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev14.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev14.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev15.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev15.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev16.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev16.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev17.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev17.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev18.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev18.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev19.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev20.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev20.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev21.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev21.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev22.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev22.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev23.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev23.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev24.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev25.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev25.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev26.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev26.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev27.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev27.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev28.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev28.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev29.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev29.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev30.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev30.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev31.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev31.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev32.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev32.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev33.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev33.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev34.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev34.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev35.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev35.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev36.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev36.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev37.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev37.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev38.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev38.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev39.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev39.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev40.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev40.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev41.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev41.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev42.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev42.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev43.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev43.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev44.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev44.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev45.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev45.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev46.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev46.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev47.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev47.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev48.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev48.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev49.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev49.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev50.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev50.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev51.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev51.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev52.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev52.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev53.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev53.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev54.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev54.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev55.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev55.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev56.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev56.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev57.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev57.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev58.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev58.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev59.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev59.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev60.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev60.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev61.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev61.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev62.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev62.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev63.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev63.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev64.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev64.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev65.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev65.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev66.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev66.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev67.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev67.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev68.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev68.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev69.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev69.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev70.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev70.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev71.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev71.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev72.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev72.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev73.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev73.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev74.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev74.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev75.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev75.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev76.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev76.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev77.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev77.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev78.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev78.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev79.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev79.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev80.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev80.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev81.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev81.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev82.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev82.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev83.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev83.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev84.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev84.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev85.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev85.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev86.jpg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev86.jpg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev87.jpeg"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev87.jpeg"
         },
         {
-            "link": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev88.png"
+            "link": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev88.png"
         }
     ],
     "settingsPage": {
-        "mainImage": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
+        "mainImage": "https://mahadev-app-2024.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
         "privacyPolicy": "https://www.freeprivacypolicy.com/live/09321051-f4ad-4d09-9ffc-00b8c7da9958",
         "termsCondition": "https://www.freeprivacypolicy.com/live/e088c1cf-256a-4d18-b50a-a8de9db02fa0",
         "shareTheApp": "Hey! I found a very good application to download Mahadev Ringtones, Aarti, Wallpaper. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew",
